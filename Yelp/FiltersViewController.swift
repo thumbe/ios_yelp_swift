@@ -164,7 +164,11 @@ class FiltersViewController: UIViewController, UITableViewDataSource, UITableVie
         // Pass the selected object to the new view controller.
     }
     */
-    let categories = [["name" : "Afghan", "code": "afghani"]
-                    ]
+    let categories = [["name" : "Afghan", "code": "afghani"],
+                    ["name" : "Mexican", "code": "mexican"],
+                    ["name" : "Indian", "code": "indpak"],
+                    ["name" : "Japanese", "code": "japanese"],
+                    ["name" : "Mediterranean", "code": "mediterranean"],["name" : "Pizza", "code": "pizza"],
+                    ["name" : "Thai", "code": "thai"]]
 
 }
